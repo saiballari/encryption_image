@@ -61,12 +61,12 @@ Each pixel's Red, Green, and Blue (RGB) values are increased by the secret key v
 * Create a GUI using Tkinter.
 * Use stronger encryption algorithms for enhanced security.
 
-##Screenshots
+## Screenshots
 
-##image
-![IMAGE](image.jpg)
+## image
+![IMAGE](img.jpg)
 
-##Encripted Image
+## Encripted Image
 ![Encripted Image](encrypted.png)
 
 ## Author
